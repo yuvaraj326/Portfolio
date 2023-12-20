@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.eea0d116.css",
+    "main.js": "/Portfolio/static/js/main.2995d418.js",
+    "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/potfolio2.jpg": "/Portfolio/static/media/potfolio2.fbcfaf45f7cca2a38496.jpg",
+    "static/media/project1.png": "/Portfolio/static/media/project1.503ccddba7ad32a41e34.png",
+    "static/media/YUVARAJ+++CV.pdf": "/Portfolio/static/media/YUVARAJ+++CV.b8a80435ea625fcd6787.pdf",
+    "static/media/1700984020147.jpg": "/Portfolio/static/media/1700984020147.e52c6a3e6eb5b431db88.jpg",
+    "static/media/mobile.png": "/Portfolio/static/media/mobile.52b735270b860b4ad97e.png",
+    "static/media/portfoli--pic.jpg": "/Portfolio/static/media/portfoli--pic.57d073742ab868c63f48.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.eea0d116.css.map": "/Portfolio/static/css/main.eea0d116.css.map",
+    "main.2995d418.js.map": "/Portfolio/static/js/main.2995d418.js.map",
+    "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eea0d116.css",
+    "static/js/main.2995d418.js"
+  ]
+}

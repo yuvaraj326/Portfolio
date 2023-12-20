@@ -3,7 +3,9 @@ import "./Contact.css";
 import { FaWhatsapp } from "react-icons/fa";
 import { MdOutlineMail } from "react-icons/md";
 import { CiLinkedin } from "react-icons/ci";
-import { BsArrowReturnRight } from "react-icons/bs";
+import { LuSendHorizonal } from "react-icons/lu";
+import { GrSend } from "react-icons/gr";
+import { BiMailSend } from "react-icons/bi";
 import emailjs from "emailjs-com";
 import { ToastContainer, toast } from "react-toast";
 
@@ -39,53 +41,55 @@ export default function Contact() {
           <h4 className="contact-title">Talk To Me</h4>
 
           <div className="contact-info">
+              <a href="https://web.whatsapp.com/" className="contact-button">
             <div className="contact-card">
               <i className="contact-card-icon">
                 <FaWhatsapp />{" "}
               </i>
               <span className="contact-card-title b1">Whatsapp</span>
-              <a href="https://web.whatsapp.com/" className="contact-button">
-                Write Me{" "}
+              
                 <i className="contact-button-icon">
-                  <BsArrowReturnRight />
+                  <LuSendHorizonal />
                 </i>
-              </a>
+                <br />
             </div>
+              </a>
 
-            <div className="contact-card">
-              <i className="contact-card-icon">
-                <MdOutlineMail />
-              </i>
-              <span className="contact-card-title ">yuvarajvx31@gmail</span>
               <a
-                href="http://mailto:yuvivx92@gmail.com"
+                href="mailto:yuvivx92@gmail.com"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noreferrer"
                 className="contact-button"
               >
-                Write Me
-                <i className="contact-button-icon">
-                  <BsArrowReturnRight />{" "}
-                </i>
-              </a>
-            </div>
             <div className="contact-card">
               <i className="contact-card-icon">
-                <CiLinkedin />
+              <MdOutlineMail />
               </i>
-              <span className="contact-card-title b1">yuvaraj-vx31</span>
+              <span className="contact-card-title ">yuvarajvx31@gmail</span>
+                <i className="contact-button-icon">
+                <BiMailSend />
+                </i>
+                <br />
+            </div>
+              </a>
               <a
                 href="http://www.linkedin.com/in/yuvaraj-vx31"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="contact-button"
               >
-                Write Me
+            <div className="contact-card">
+              <i className="contact-card-icon">
+                <CiLinkedin />
+              </i>
+              <span className="contact-card-title b1">yuvaraj-vx31</span>
+                
                 <i className="contact-button-icon">
-                  <BsArrowReturnRight />
+                  <GrSend />
                 </i>
-              </a>
+                <br />
             </div>
+              </a>
           </div>
         </div>
           <span className="contact-line"></span>

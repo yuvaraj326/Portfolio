@@ -25,7 +25,7 @@ export default function project() {
                         <a href='https://github.com/yuvaraj326'>github</a>
                         </button>
                         <button className='button'>
-                        <a href='# '>livve demo</a>
+                        <a href='https://yuvaraj326.github.io/Portfolio/'>livve demo</a>
                         </button>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ export default function project() {
                         <a href='https://github.com/yuvaraj326/Hospital-Web-App-React'>github</a>
                         </button>
                         <button className='button'>
-                        <a href='# '>livve demo</a>
+                        <a href='https://yuvaraj326.github.io/Portfolio/'>livve demo</a>
                         </button>
                     </div>
                 </div>
@@ -57,7 +57,7 @@ export default function project() {
                         <a href='https://github.com/yuvaraj326/Hospital-Web-App-SpringBoot'>github</a>
                         </button>
                         <button className='button'>
-                        <a href='# '>livve demo</a>
+                        <a href='https://yuvaraj326.github.io/Portfolio/'>livve demo</a>
                         </button>
                     </div>
                 </div>

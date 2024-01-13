@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.e1b17bc8.css",
-    "main.js": "/Portfolio/static/js/main.c555483d.js",
+    "main.css": "/Portfolio/static/css/main.1fd530b1.css",
+    "main.js": "/Portfolio/static/js/main.f3788686.js",
     "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
     "static/media/potfolio2.jpg": "/Portfolio/static/media/potfolio2.fbcfaf45f7cca2a38496.jpg",
     "static/media/project1.png": "/Portfolio/static/media/project1.503ccddba7ad32a41e34.png",
-    "static/media/YUVARAJ+++CV.pdf": "/Portfolio/static/media/YUVARAJ+++CV.b8a80435ea625fcd6787.pdf",
     "static/media/1700984020147.jpg": "/Portfolio/static/media/1700984020147.e52c6a3e6eb5b431db88.jpg",
+    "static/media/YUVARAJ CV.pdf": "/Portfolio/static/media/YUVARAJ CV.191cc0c59d49d3b0d7ba.pdf",
+    "static/media/IMG_2256_edited (1).jpeg": "/Portfolio/static/media/IMG_2256_edited (1).5da16d47d1db088ede6f.jpeg",
     "static/media/mobile.png": "/Portfolio/static/media/mobile.52b735270b860b4ad97e.png",
-    "static/media/portfoli--pic.jpg": "/Portfolio/static/media/portfoli--pic.57d073742ab868c63f48.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.e1b17bc8.css.map": "/Portfolio/static/css/main.e1b17bc8.css.map",
-    "main.c555483d.js.map": "/Portfolio/static/js/main.c555483d.js.map",
+    "main.1fd530b1.css.map": "/Portfolio/static/css/main.1fd530b1.css.map",
+    "main.f3788686.js.map": "/Portfolio/static/js/main.f3788686.js.map",
     "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1b17bc8.css",
-    "static/js/main.c555483d.js"
+    "static/css/main.1fd530b1.css",
+    "static/js/main.f3788686.js"
   ]
 }

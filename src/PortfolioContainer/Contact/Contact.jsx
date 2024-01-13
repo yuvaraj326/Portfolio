@@ -41,7 +41,7 @@ export default function Contact() {
           <h4 className="contact-title">Talk To Me</h4>
 
           <div className="contact-info">
-              <a href="https://web.whatsapp.com/" className="contact-button">
+              <a href="https://wa.me/989496148" className="contact-button">
             <div className="contact-card">
               <i className="contact-card-icon">
                 <FaWhatsapp />{" "}

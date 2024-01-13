@@ -6,6 +6,7 @@
   justify-content: space-around;
   height: fit-content;
   background-color: rgb(215, 215, 215);
+  border-bottom: solid 1px black;
 }
 .nav-container,
 .nav-menu {
@@ -58,6 +59,7 @@ a:hover {
     display: none;
   }
   .hamburger-container {
+    border-bottom: solid 1px black;
     /* position: fixed; */
     z-index: 99;
     display: flex;

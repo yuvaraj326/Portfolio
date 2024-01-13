@@ -1,7 +1,7 @@
 import React from "react";
 import "./Profile.css";
-import profilepic from "../../assets/portfoli--pic.jpg";
-import  cvpdf from '../../assets/YUVARAJ+++CV.pdf'
+import profilepic from "../../assets/IMG_2256_edited (1).jpeg";
+import  cvpdf from '../../assets/YUVARAJ CV.pdf'
 import { FaLinkedin,FaGithub  } from "react-icons/fa";
 
 export default function Profile() {

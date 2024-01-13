@@ -8,7 +8,7 @@ export default function Footer() {
     <footer className='footer' id='footer'>
       <div className='footer-container container'>
         
-        <h1 className="footer-title">Yuvaraj</h1>
+        <h1 className="footer-title"> <a href="# ">Yuvaraj</a></h1>
 
           <ul className="footer-list">
             <li>
@@ -16,6 +16,9 @@ export default function Footer() {
             </li>
             <li>
               <a href="#about" className="footer-link">About</a>
+            </li>
+            <li>
+              <a href="#skills" className="footer-link">Skills</a>
             </li>
             <li>
               <a href="#project" className="footer-link">Project</a>

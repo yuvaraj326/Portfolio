@@ -8,6 +8,8 @@
   align-items: center;
   gap: 5rem;
   height: fit-content;
+  box-sizing: border-box;
+  padding-top: 5rem;
 }
 .profile-pic1 {
   display: flex;

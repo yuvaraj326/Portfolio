@@ -101,10 +101,9 @@ section {
 /* media queary */
 
 @media screen and (max-width: 680px ) {
-  .container{
-    /* margin: 0 auto; */
-  
-  }
+  /* .container{
+    margin: 0 auto;
+  } */
   .button{
     padding: 1rem 1.75rem;
   }

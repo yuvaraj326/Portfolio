@@ -22,10 +22,10 @@ export default function project() {
                     <h4>Portfolio</h4>
                     <div className="project-button">
                         <button className='button'>
-                        <a href='https://github.com/yuvaraj326'>github</a>
+                        <a href='https://github.com/yuvaraj326'>GitHub</a>
                         </button>
                         <button className='button'>
-                        <a href='https://yuvaraj326.github.io/Portfolio/'>livve demo</a>
+                        <a href='https://yuvaraj326.github.io/Portfolio/'>live demo</a>
                         </button>
                     </div>
                 </div>
@@ -35,13 +35,13 @@ export default function project() {
                     <img  className="project-img" src={project1} alt="hospital-img" />
                 </div>
                 <div className="project-details">
-                    <h4>Hospital (React)</h4>
+                    <h4>Hospital (React JS)</h4>
                     <div className="project-button">
                         <button className='button'>
-                        <a href='https://github.com/yuvaraj326/Hospital-Web-App-React'>github</a>
+                        <a href='https://github.com/yuvaraj326/Hospital-Web-App-React'>GitHub</a>
                         </button>
                         <button className='button'>
-                        <a href='https://yuvaraj326.github.io/Portfolio/'>livve demo</a>
+                        <a href='https://yuvaraj326.github.io/Portfolio/'>live demo</a>
                         </button>
                     </div>
                 </div>
@@ -51,13 +51,13 @@ export default function project() {
                     <img  className="project-img" src={img3} alt="hospital-img" />
                 </div>
                 <div className="project-details">
-                    <h4>Hospital (SpingBoot)</h4>
+                    <h4>Hospital (SpringBoot)</h4>
                     <div className="project-button">
                         <button className='button'>
-                        <a href='https://github.com/yuvaraj326/Hospital-Web-App-SpringBoot'>github</a>
+                        <a href='https://github.com/yuvaraj326/Hospital-Web-App-SpringBoot'>GitHub</a>
                         </button>
                         <button className='button'>
-                        <a href='https://yuvaraj326.github.io/Portfolio/'>livve demo</a>
+                        <a href='https://yuvaraj326.github.io/Portfolio/'>live demo</a>
                         </button>
                     </div>
                 </div>

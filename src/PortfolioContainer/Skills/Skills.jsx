@@ -31,7 +31,7 @@ function Skills() {
             onClick={() => toggleTab(1)}
           >
             {/* ivon*/} <i className="uil uil-graduation-cap skill-icon"><PiStudentBold/></i>
-            Eduction
+            Education
           </div>
 
           <div
@@ -129,7 +129,7 @@ function Skills() {
             {/*1 */}
             <div className="skills-data">
               <div>
-                <h4 className="skills-title">java </h4>
+                <h4 className="skills-title">Core Java </h4>
                 <span className="skills-subtitle">  </span>
                 {/* <div className="skills-calender">
                   <i className="uil"></i> 
@@ -190,7 +190,7 @@ function Skills() {
             {/* ------------- */}
             <div className="skills-data">
               <div>
-                <h4 className="skills-title">java Script</h4>
+                <h4 className="skills-title">javascript</h4>
                 <span className="skills-subtitle">  </span>
                 {/* <div className="skills-calender">
                   <i className="uil"></i> 
@@ -211,10 +211,7 @@ function Skills() {
               </div>
               <div>
                 <h4 className="skills-title">React JS</h4>
-                <span className="skills-subtitle"> </span>
-                {/* <div className="skills-calender">
-                  <i className="uil">*</i> 2019-2022
-                </div> */}
+                <span className="skills-subtitle"> </span>               
               </div>
             </div>
             {/* ------------- */}
@@ -223,9 +220,6 @@ function Skills() {
               <div>
                 <h4 className="skills-title">SQL</h4>
                 <span className="skills-subtitle"></span>
-                {/* <div className="skills-calender">
-                  <i className="uil">*</i> 2017-2019
-                </div> */}
               </div>
               <div>
                 <span className="skills-rounder"></span>
@@ -238,14 +232,11 @@ function Skills() {
               <div></div>
               <div>
                 <span className="skills-rounder"></span>
-                <span className="skills-line"></span>
+                {/* <span className="skills-line"></span> */}
               </div>
               <div>
-                <h4 className="skills-title">MySQL</h4>
+                <h4 className="skills-title">MySQL </h4>
                 <span className="skills-subtitle"> </span>
-                {/* <div className="skills-calender">
-                  <i className="uil">*</i> 2019-2022
-                </div> */}
               </div>
             </div>
             {/* ------------- */}

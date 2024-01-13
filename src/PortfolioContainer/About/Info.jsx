@@ -17,7 +17,7 @@ export default function Info() {
         <div className="about-box">
           <i className="about-icon"><PiStudentBold/></i>
           <h3 className="about-title">Eductation</h3>
-          <span className="about-subtitle">B.com Computer application</span>
+          <span className="about-subtitle">B.Com Computer Application</span>
         </div>
       </a>
       <a href="#project" style={{textDecoration:'none'}}>
